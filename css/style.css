@@ -51,7 +51,7 @@ nav {
 }
 
 .right-box {
-  padding: 2rem;
+  padding: 2rem 0;
   display: flex;
   flex-direction: column;
   align-items: left;
@@ -60,12 +60,12 @@ nav {
 
 .right-box h1 {
   margin-bottom: 1rem;
-  font-size: clamp(1.3rem, 2.5vw, 1.6rem);
+  font-size: clamp(1.4rem, 2.5vw, 1.6rem);
 }
 
 .right-box p {
   text-align: justify;
-  font-size: clamp(0.7rem, 2.5vw, 1rem);
+  font-size: clamp(0.8rem, 2.5vw, 1rem);
 }
 
 .explore-more {

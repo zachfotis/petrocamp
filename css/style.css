@@ -51,7 +51,7 @@ nav {
 }
 
 .right-box {
-  padding: 2rem 0;
+  padding: 2rem 0px;
   display: flex;
   flex-direction: column;
   align-items: left;
